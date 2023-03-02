@@ -28,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Webpack <a name="about-project"></a>
+# 📖 Hello Webpack <a name="about-project"></a>
 
 >  This is a project that shows you in the web-browser some greeting in different languages every time you refresh the page.
 
